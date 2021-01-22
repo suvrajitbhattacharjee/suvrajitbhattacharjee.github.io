@@ -9,4 +9,4 @@ Welcome to my homepage!
 
 I am a visiting scientist in the Theoretical Statistics and Mathematics Unit of the Indian Statistical Institute in Kolkata, India. 
 
-My research interest lies in Hopf algebras and noncommutative geometry. Recently, I have started learning about subfactor theory.
+My research interests are in Hopf algebras and noncommutative geometry. Recently, I have started learning about subfactor theory.
