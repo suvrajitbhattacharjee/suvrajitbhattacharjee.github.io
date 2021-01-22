@@ -4,7 +4,7 @@ title: Writing
 permalink: /writing/
 ---
 
-My thesis can be found [here.](http://hdl.handle.net/123456789/7092)
+My thesis can be found [here.](C:\Users\91990\Documents\Website\suvrajitbhattacharjee.github.io\assets\thesis_main)
 
 ### Papers:
 
