@@ -4,7 +4,7 @@ title: Writing
 permalink: /writing/
 ---
 
-My thesis can be found [here.](./assets/thesis_main.pdf)
+My thesis can be found [here.](http://library.isical.ac.in:8080/jspui/bitstream/123456789/7092/3/20201016-SuvrajitBhattacharjee-Thesis-rev2.pdf)
 
 ### Papers:
 
