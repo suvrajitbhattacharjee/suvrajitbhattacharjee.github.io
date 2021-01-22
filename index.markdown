@@ -7,4 +7,6 @@ layout: home
 
 Welcome to my homepage!
 
-I am a visiting scientist in the Theoretical Statistics and Mathematics Unit of the Indian Statistical Institute in Kolkata, India. I study the role of Hopf algebras or quantum groups in noncommutative geometry.
+I am a visiting scientist in the Theoretical Statistics and Mathematics Unit of the Indian Statistical Institute in Kolkata, India. 
+
+My research interest lies in Hopf algebras and noncommutative geometry. Recently, I have started learning about subfactor theory.
