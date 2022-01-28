@@ -2,13 +2,14 @@
 layout: page
 title: Writing
 permalink: /writing/
+usemathjax: true
 ---
 
 My thesis can be found [here.](http://library.isical.ac.in:8080/jspui/bitstream/10263/7092/3/20201016-SuvrajitBhattacharjee-Thesis-rev2.pdf)
 
 ### Papers:
 
-- Bhattacharjee, S., Joardar, S., Roy, S., "Braided quantum symmetries of graph $\textup{C}^*$-algebras", [arXiv preprint math.OA/2201.09885,](https://arxiv.org/abs/2201.09885) 2022.
+- Bhattacharjee, S., Joardar, S., Roy, S., "Braided quantum symmetries of graph $\mathrm{C}^*$-algebras", [arXiv preprint math.OA/2201.09885,](https://arxiv.org/abs/2201.09885) 2022.
 
 - Bhattacharjee, S., Joardar, S., Mukhopadhyay, S., "Levi-Civita connections from toral actions", [arXiv preprint math.QA/2104.07570,](https://arxiv.org/abs/2104.07570) 2021.
 
