@@ -14,4 +14,6 @@ I was offered a one-year postdoctoral position at the Institute of Mathematics o
 
 I defended my doctoral thesis in December, 2020 at the Indian Statistical Institute in Kolkata, India under the supervision of Prof. Debashish Goswami.
 
+My CV can be found [here.](cv.pdf)
+
 My email address is: suvra dot bh at gmail dot com
