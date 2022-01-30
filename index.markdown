@@ -5,6 +5,6 @@
 layout: home
 ---
 
-I am a SERB-NPDF in the Department of Mathematics and Statistics of the Indian Institute of Science Education and Research, Kolkata.
+I am a SERB-NPDF in the Department of Mathematics and Statistics of the Indian Institute of Science Education and Research in Kolkata, India.
 
 My research interests are in Hopf algebras and noncommutative geometry. Recently, I have started learning about subfactor theory.

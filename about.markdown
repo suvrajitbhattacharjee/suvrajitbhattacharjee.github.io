@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-I am a SERB-NPDF in the Department of Mathematics and Statistics of the Indian Institute of Science Education and Research, Kolkata.
+I am a SERB-NPDF in the Department of Mathematics and Statistics of the Indian Institute of Science Education and Research in Kolkata, India.
 
 Before that, I was a visiting scientist in the Theoretical Statistics and Mathematics Unit of the Indian Statistical Institute in Kolkata, India sponsored by J.C. Bose fellowship of Prof. Debashish Goswami.
 
