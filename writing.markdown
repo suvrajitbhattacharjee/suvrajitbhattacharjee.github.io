@@ -13,7 +13,7 @@ My thesis can be found [here.](http://library.isical.ac.in:8080/jspui/bitstream/
 
 - Bhattacharjee, S., Joardar, S., Mukhopadhyay, S., "Levi-Civita connections from toral actions", [arXiv preprint math.QA/2104.07570,](https://arxiv.org/abs/2104.07570) 2021.
 
-- Bhattacharjee, S., Chirvasitu, A., Goswami, D., "Quantum Galois groups of subfactors", Internat. J. Math., Vol. 32, 2022. [arXiv.org](https://arxiv.org/abs/2101.05575)
+- Bhattacharjee, S., Chirvasitu, A., Goswami, D., "Quantum Galois groups of subfactors", Internat. J. Math., Vol. 33, 2022. [arXiv.org](https://arxiv.org/abs/2101.05575)
 
 - Bhattacharjee, S., Biswas, I., Goswami, D., "Generalized symmetry in noncommutative (complex) geometry", J. Geom. Phys., Vol. 166, 2021. [arXiv.org](https://arxiv.org/abs/1907.04673)
 
