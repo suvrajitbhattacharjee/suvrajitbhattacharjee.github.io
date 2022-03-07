@@ -5,6 +5,6 @@
 layout: home
 ---
 
-I am a postdoc at the Mathematical Institute of Charles University in Prague, Czechia as part of the PRIMUS grant “Spectral noncommutative geometry of quantum flag manifolds” held by Dr. R&eacute;amonn &Oacute; Buachalla.
+I am a postdoc in the Faculty of Physics and Mathematics of the Charles University in Prague, Czech Republic as part of the PRIMUS grant “Spectral noncommutative geometry of quantum flag manifolds” held by Dr. R&eacute;amonn &Oacute; Buachalla.
 
 My research interests are in Hopf algebras and noncommutative geometry. Recently, I have started learning about subfactor theory.
