@@ -16,4 +16,4 @@ I defended my doctoral thesis in December, 2020 at the Indian Statistical Instit
 
 My CV can be found [here.](cv.pdf)
 
-My email addresses are: bhattacharjee at karlin dot mff dot cuni dot cz
+My email addresses are: suvra dot bh at gmail dot com, bhattacharjee at karlin dot mff dot cuni dot cz
