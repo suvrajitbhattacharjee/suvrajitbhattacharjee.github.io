@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-I am a postdoc in the Mathematical Institute of the Charles University in Prague, Czech Republic as part of the PRIMUS grant “Spectral noncommutative geometry of quantum flag manifolds” held by Dr. R&eacute;amonn &Oacute; Buachalla.
+I am a postdoc in the Mathematical Institute of Charles University in Prague, Czech Republic as part of the PRIMUS grant “Spectral noncommutative geometry of quantum flag manifolds” held by Dr. R&eacute;amonn &Oacute; Buachalla.
 
 Before that, I was a SERB-NPDF in the Department of Mathematics and Statistics of the Indian Institute of Science Education and Research in Kolkata, India.
 
@@ -16,4 +16,4 @@ I defended my doctoral thesis in December, 2020 at the Indian Statistical Instit
 
 My CV can be found [here.](cv.pdf)
 
-My email address is: suvra dot bh at gmail dot com
+My email addresses are: bhattacharjee at karlin dot mff dot cuni dot cz
