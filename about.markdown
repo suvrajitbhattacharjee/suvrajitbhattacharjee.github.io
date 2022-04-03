@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-I am a postdoc in the Mathematical Institute of Charles University in Prague, Czech Republic as part of the PRIMUS grant “Spectral noncommutative geometry of quantum flag manifolds” held by Dr. R&eacute;amonn &Oacute; Buachalla.
+I am a postdoc at the Mathematical Institute of Charles University in Prague, Czech Republic as part of the PRIMUS grant “Spectral noncommutative geometry of quantum flag manifolds” held by Dr. R&eacute;amonn &Oacute; Buachalla.
 
 Before that, I was a SERB-NPDF in the Department of Mathematics and Statistics of the Indian Institute of Science Education and Research in Kolkata, India.
 
