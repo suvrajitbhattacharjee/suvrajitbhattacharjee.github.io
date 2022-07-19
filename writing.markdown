@@ -9,6 +9,8 @@ My thesis can be found [here.](http://library.isical.ac.in:8080/jspui/bitstream/
 
 ### Papers:
 
+- Anshu, Bhattacharjee, S., Rahaman, A., Roy, S., "Anyonic quantum symmetries of finite spaces", [arXiv preprint math.QA/2207.08153,](https://arxiv.org/abs/2207.08153) 2022.
+
 - Bhattacharjee, S., Joardar, S., Roy, S., "Braided quantum symmetries of graph C*-algebras", [arXiv preprint math.OA/2201.09885,](https://arxiv.org/abs/2201.09885) 2022.
 
 - Bhattacharjee, S., Joardar, S., Mukhopadhyay, S., "Levi-Civita connections from toral actions", [arXiv preprint math.QA/2104.07570,](https://arxiv.org/abs/2104.07570) 2021.
