@@ -5,6 +5,8 @@ permalink: /talks/
 usemathjax: true
 ---
 
+- An introduction to (braided) quantum groups, Inter IISER-NISER Math meet, Indian Institute of Science Education and Research, Kolkata (June, 2022)
+
 - Kasparov product and its properties, Mal&yacute; Seminar, Prague. (April, 2022)
 
 - Braided quantum symmetries of graph C*-algebras, NCG&T Seminar, Prague. (April, 2022)
