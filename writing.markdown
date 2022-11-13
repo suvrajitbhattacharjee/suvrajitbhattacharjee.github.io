@@ -9,11 +9,11 @@ My thesis can be found [here.](http://library.isical.ac.in:8080/jspui/bitstream/
 
 ### Papers:
 
-- Bhattacharjee, S., Joardar, S., "Equivariant C*-correspondences and compact quantum group actions on Pimsner algebras", [arXiv preprint math.OA/2209.04708,](https://arxiv.org/abs/2209.04708) 2022.
+- Bhattacharjee, S., Joardar, S., "Equivariant $\mathrm{C}^*$-correspondences and compact quantum group actions on Pimsner algebras", [arXiv preprint math.OA/2209.04708,](https://arxiv.org/abs/2209.04708) 2022.
 
 - Anshu, Bhattacharjee, S., Rahaman, A., Roy, S., "Anyonic quantum symmetries of finite spaces", [arXiv preprint math.QA/2207.08153,](https://arxiv.org/abs/2207.08153) 2022.
 
-- Bhattacharjee, S., Joardar, S., Roy, S., "Braided quantum symmetries of graph C*-algebras", [arXiv preprint math.OA/2201.09885,](https://arxiv.org/abs/2201.09885) 2022.
+- Bhattacharjee, S., Joardar, S., Roy, S., "Braided quantum symmetries of graph $\mathrm{C}^*$-algebras", [arXiv preprint math.OA/2201.09885,](https://arxiv.org/abs/2201.09885) 2022.
 
 - Bhattacharjee, S., Joardar, S., Mukhopadhyay, S., "Levi-Civita connections from toral actions", J. Geom. Phys., Vol. 181, 2022. [arXiv.org](https://arxiv.org/abs/2104.07570)
 
