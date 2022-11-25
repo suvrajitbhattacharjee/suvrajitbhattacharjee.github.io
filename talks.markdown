@@ -5,15 +5,19 @@ permalink: /talks/
 usemathjax: true
 ---
 
+- Actions of compact quantum groups 2 - spectral subspaces and the Podle&sacute; algebra, Mal&yacute; Seminar, Prague. (November, 2022)
+
+- Actions of compact quantum groups 1 - spectral subspaces and the Podle&sacute; algebra, Mal&yacute; Seminar, Prague. (November, 2022)
+
 - An introduction to (braided) quantum groups, Inter IISER-NISER Math meet, Indian Institute of Science Education and Research, Kolkata (June, 2022)
 
 - Kasparov product and its properties, Mal&yacute; Seminar, Prague. (April, 2022)
 
-- Braided quantum symmetries of graph C*-algebras, NCG&T Seminar, Prague. (April, 2022)
+- Braided quantum symmetries of graph $\mathrm{C}^*$-algebras, NCG&T Seminar, Prague. (April, 2022)
 
 - Kasparov modules and constructions, Mal&yacute; Seminar, Prague. (April, 2022)
 
-- Braided quantum symmetries of graph C*-algebras, Quantum Groups Seminar, Copenhagen. (March, 2022)
+- Braided quantum symmetries of graph $\mathrm{C}^*$-algebras, Quantum Groups Seminar, Copenhagen. (March, 2022)
 
 - Quantum groups, Indian Institute of Science Education and Research, Kolkata. (February, 2020)
 
