@@ -5,9 +5,9 @@ permalink: /talks/
 usemathjax: true
 ---
 
-- Actions of compact quantum groups 2 - spectral subspaces and the Podle&sacute; algebra, NCG&T Mal&yacute; Seminar, Prague. (November, 2022)
+- Actions of compact quantum groups 2, NCG&T Mal&yacute; Seminar, Prague. (November, 2022)
 
-- Actions of compact quantum groups 1 - spectral subspaces and the Podle&sacute; algebra, NCG&T Mal&yacute; Seminar, Prague. (November, 2022)
+- Actions of compact quantum groups 1, NCG&T Mal&yacute; Seminar, Prague. (November, 2022)
 
 - An introduction to (braided) quantum groups, Inter IISER-NISER Math meet, Indian Institute of Science Education and Research, Kolkata (June, 2022)
 
