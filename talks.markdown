@@ -13,11 +13,11 @@ usemathjax: true
 
 - Kasparov product and its properties, NCG&T Mal&yacute; Seminar, Prague. (April, 2022)
 
-- Braided quantum symmetries of graph $\mathrm{C}^*$-algebras, NCG&T Seminar, Prague. (April, 2022)
+- Braided quantum symmetries of graph $\textrm{C}^*$-algebras, NCG&T Seminar, Prague. (April, 2022)
 
 - Kasparov modules and constructions, NCG&T Mal&yacute; Seminar, Prague. (April, 2022)
 
-- Braided quantum symmetries of graph $\mathrm{C}^*$-algebras, Quantum Groups Seminar, Copenhagen. (March, 2022)
+- Braided quantum symmetries of graph $\textrm{C}^*$-algebras, Quantum Groups Seminar, Copenhagen. (March, 2022)
 
 - Quantum groups, Indian Institute of Science Education and Research, Kolkata. (February, 2020)
 
