@@ -5,6 +5,6 @@
 layout: home
 ---
 
-I am a postdoc at the Department of Mathematics, University of Oslo in Oslo, Norway.
+I am a postdoc at the Mathematics Institute, University of Oslo in Oslo, Norway.
 
 My research interests are in operator algebras, quantum groups and noncommutative geometry.

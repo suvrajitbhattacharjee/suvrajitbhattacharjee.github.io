@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-I am a postdoc at the Department of Mathematics, University of Oslo in Oslo, Norway.
+I am a postdoc at the Mathematics Institute, University of Oslo in Oslo, Norway.
 
 Before that, I was a postdoc at the Mathematical Institute of Charles University in Prague, Czech Republic.
 
