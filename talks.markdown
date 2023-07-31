@@ -5,6 +5,9 @@ permalink: /talks/
 usemathjax: true
 ---
 
+- (Equivariant) lifting problem for completely positive maps, Indian Statistical
+  Institute, Kolkata. (July, 2023)
+
 - Actions of compact quantum groups 2, NCG&T Mal&yacute; Seminar, Prague. (November, 2022)
 
 - Actions of compact quantum groups 1, NCG&T Mal&yacute; Seminar, Prague. (November, 2022)
