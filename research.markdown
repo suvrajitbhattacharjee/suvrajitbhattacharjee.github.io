@@ -61,7 +61,7 @@ usemathjax: true
 
 - Infinite Galois theory, Graduate seminar, Indian Statistical Institute, Kolkata. (January, 2016)
 
-## Service:
+## Services:
 
 - [Geometry and Analysis of Quantum Groups 2023](https://www.mn.uio.no/math/english/research/groups/operator-algebras/events/conferences/qg-2023/index.html), Workshop at University of
 Oslo. (November, 2023)   
