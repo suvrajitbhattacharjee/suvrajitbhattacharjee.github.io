@@ -5,8 +5,6 @@ permalink: /writing/
 usemathjax: true
 ---
 
-My thesis can be found [here.](http://library.isical.ac.in:8080/jspui/bitstream/10263/7092/3/20201016-SuvrajitBhattacharjee-Thesis-rev2.pdf)
-
 ### Papers:
 
 - Bhattacharjee, S., Joardar, S., "Equivariant $\textrm{C}^*$-correspondences and compact quantum group actions on Pimsner algebras", [arXiv preprint math.OA/2209.04708,](https://arxiv.org/abs/2209.04708) 2022.
@@ -21,4 +19,7 @@ My thesis can be found [here.](http://library.isical.ac.in:8080/jspui/bitstream/
 
 - Bhattacharjee, S., Biswas, I., Goswami, D., "Generalized symmetry in noncommutative (complex) geometry", J. Geom. Phys., Vol. 166, 2021. [arXiv.org](https://arxiv.org/abs/1907.04673)
 
-- Bhattacharjee, S., Goswami, D., "Hopf coactions on odd spheres", J. Algebra, Vol. 539, 2019. [arXiv.org](https://arxiv.org/abs/1808.08698)
+- Bhattacharjee, S., Goswami, D., "Hopf coactions on odd spheres", J. Algebra,
+  Vol. 539, 2019. [arXiv.org](https://arxiv.org/abs/1808.08698)
+
+My thesis can be found [here.](http://library.isical.ac.in:8080/jspui/bitstream/10263/7092/3/20201016-SuvrajitBhattacharjee-Thesis-rev2.pdf)

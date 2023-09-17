@@ -5,6 +5,10 @@ permalink: /talks/
 usemathjax: true
 ---
 
+- Equivariant lifting problem for continuous fields of completely positive
+  maps, Quantum Groups and Noncommutative Geometry in Prague, Charles
+  University, Prague. (September, 2023)
+
 - (Equivariant) lifting problem for completely positive maps, Indian Statistical
   Institute, Kolkata. (July, 2023)
 

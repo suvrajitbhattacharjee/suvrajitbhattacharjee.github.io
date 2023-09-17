@@ -13,5 +13,3 @@ I was offered a postdoctoral position at the Institute of Mathematics of the Pol
 I defended my doctoral thesis in December, 2020 at the Indian Statistical Institute in Kolkata, India under the supervision of Prof. Debashish Goswami.
 
 My CV can be found [here.](suvrajit-bhattacharjee-cv.pdf)
-
-My email addresses are: suvra dot bh at gmail dot com, suvrajib at math dot uio dot no
