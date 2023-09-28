@@ -25,6 +25,9 @@ usemathjax: true
 ## Talks:
 
 - Equivariant lifting problem for continuous fields of completely positive
+  maps, Operator Algebra Seminar, University of Oslo, Oslo. (September, 2023)
+
+- Equivariant lifting problem for continuous fields of completely positive
   maps, Quantum Groups and Noncommutative Geometry in Prague, Charles
   University, Prague. (September, 2023)
 
@@ -61,11 +64,8 @@ usemathjax: true
 
 - Infinite Galois theory, Graduate seminar, Indian Statistical Institute, Kolkata. (January, 2016)
 
-## Services:
+## Events:
 
-- [Geometry and Analysis of Quantum Groups 2023](https://www.mn.uio.no/math/english/research/groups/operator-algebras/events/conferences/qg-2023/index.html), Workshop at University of
-Oslo. (November, 2023)   
-
-- Research visit of Sugato Mukhopadhyay. (August, 2023)
-
-- Research visit of Marzieh Forough. (August, 2023)
+- Co-organizer of the workshop [Geometry and Analysis of Quantum Groups
+2023](https://www.mn.uio.no/math/english/research/groups/operator-algebras/events/conferences/qg-2023/index.html),
+University of Oslo. (November, 2023)   
