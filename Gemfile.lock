@@ -213,7 +213,7 @@ GEM
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
-    minitest (5.22.2)
+    minitest (5.22.3)
     net-http (0.4.1)
       uri
     nokogiri (1.16.2)
