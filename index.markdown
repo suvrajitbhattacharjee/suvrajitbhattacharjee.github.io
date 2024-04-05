@@ -4,6 +4,7 @@
 
 layout: home
 ---
+![me](me.jpg){: style="float: right"}
 
 I am a postdoc at the Mathematics Institute, University of Oslo in Oslo, Norway.
 
