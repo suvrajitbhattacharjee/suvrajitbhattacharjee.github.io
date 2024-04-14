@@ -4,8 +4,6 @@
 
 layout: home
 ---
-![me](me.jpg){: style="float: right" width="200"}
-
 I am a postdoc at the Mathematics Institute, University of Oslo in Oslo, Norway.
 
 Before that, I was a postdoc at the Mathematical Institute of Charles University in Prague, Czech Republic.
