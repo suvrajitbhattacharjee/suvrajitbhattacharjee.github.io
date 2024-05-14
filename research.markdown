@@ -7,16 +7,15 @@ usemathjax: true
 
 ## Papers:
 
+- Bhattacharjee, S., Forough, M., "Quasi-invariant lifts of completely positive maps for groupoid actions", [arXiv preprint math.OA/2405.07859,](https://arxiv.org/abs/2405.07859) 2024.
+
 - Bhattacharjee, S., Joardar, S., Roy, S., "Braided quantum symmetries of graph $\textrm{C}^*$-algebras", [arXiv preprint math.OA/2201.09885,](https://arxiv.org/abs/2201.09885) 2022.
 
-- Bhattacharjee, S., Joardar, S., "Equivariant $\textrm{C}^*$-correspondences
-  and compact quantum group actions on Pimsner algebras", To appear in Canadian
-  Journal of Mathematics, 2024.
-  [arXiv.org](https://arxiv.org/abs/2209.04708) 
+- Bhattacharjee, S., Goswami, D., "Complex structures on Three-point space", Proceedings of the International Conference on Infinite Dimensional Analysis, Quantum Probability and Related Topics, QP38, 2024. [arXiv.org](https://arxiv.org/abs/2405.07866)
 
-- Anshu, Bhattacharjee, S., Rahaman, A., Roy, S., "Anyonic quantum symmetries of
-  finite spaces", Lett. Math. Phys., Vol. 113, 2023.
-[arXiv.org](https://arxiv.org/abs/2207.08153)
+- Bhattacharjee, S., Joardar, S., "Equivariant $\textrm{C}^*$-correspondences and compact quantum group actions on Pimsner algebras", To appear in Canadian Journal of Mathematics, 2024. [arXiv.org](https://arxiv.org/abs/2209.04708) 
+
+- Anshu, Bhattacharjee, S., Rahaman, A., Roy, S., "Anyonic quantum symmetries of finite spaces", Lett. Math. Phys., Vol. 113, 2023. [arXiv.org](https://arxiv.org/abs/2207.08153)
 
 - Bhattacharjee, S., Joardar, S., Mukhopadhyay, S., "Levi-Civita connections from toral actions", J. Geom. Phys., Vol. 181, 2022. [arXiv.org](https://arxiv.org/abs/2104.07570)
 
