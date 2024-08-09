@@ -5,8 +5,6 @@ permalink: /talks/
 usemathjax: true
 ---
 
-## Talks:
-
 - Equivariant lifting problem for continuous fields of completely positive
   maps, Operator Algebra Seminar, University of Oslo, Oslo. (September, 2023)
 

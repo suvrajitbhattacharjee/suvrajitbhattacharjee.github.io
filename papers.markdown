@@ -5,8 +5,6 @@ permalink: /papers/
 usemathjax: true
 ---
 
-## Papers:
-
 - with Forough, M., "Quasi-invariant lifts of completely positive maps for groupoid actions", [arXiv preprint math.OA/2405.07859,](https://arxiv.org/abs/2405.07859) 2024.
 
 - with Joardar, S., Roy, S., "Braided quantum symmetries of graph $\textrm{C}^*$-algebras", To appear in International Journal of Mathematics, 2024. [arXiv](https://arxiv.org/abs/2201.09885) [doi](https://dx.doi.org/10.1142/S0129167X24500514)
