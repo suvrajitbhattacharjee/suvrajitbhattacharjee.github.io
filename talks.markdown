@@ -5,15 +5,17 @@ permalink: /talks/
 usemathjax: true
 ---
 
-- Equivariant lifting problem for continuous fields of completely positive
-  maps, Operator Algebra Seminar, University of Oslo, Oslo. (September, 2023)
+- Braided quantum groups and their actions, Noncommutativity along the North sea in Odense, University of Southern Denmark, Odense. (August, 2024)
 
 - Equivariant lifting problem for continuous fields of completely positive
-  maps, Quantum Groups and Noncommutative Geometry in Prague, Charles
-  University, Prague. (September, 2023)
+maps, Operator Algebra Seminar, University of Oslo, Oslo. (September, 2023)
+
+- Equivariant lifting problem for continuous fields of completely positive
+maps, Quantum Groups and Noncommutative Geometry in Prague, Charles
+University, Prague. (September, 2023)
 
 - (Equivariant) lifting problem for completely positive maps, Indian Statistical
-  Institute, Kolkata. (July, 2023)
+Institute, Kolkata. (July, 2023)
 
 - Actions of compact quantum groups 2, NCG&T Mal&yacute; Seminar, Prague. (November, 2022)
 
