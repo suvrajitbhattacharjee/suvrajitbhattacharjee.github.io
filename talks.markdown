@@ -5,6 +5,8 @@ permalink: /talks/
 usemathjax: true
 ---
 
+- Crystallization and $\textrm{K}$-theoretical aspects of the quantum twistor bundle, Noncommutativity behind the dunes, Delft University of Technology, Delft. (October, 2024)
+
 - Braided quantum groups and their actions, Noncommutativity along the North sea in Odense, University of Southern Denmark, Odense. (August, 2024)
 
 - Equivariant lifting problem for continuous fields of completely positive

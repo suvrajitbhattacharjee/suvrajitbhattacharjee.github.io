@@ -22,4 +22,4 @@ Blindern, 0316 Oslo, Norway.
 My email addresses are: suvra dot bh at gmail dot com, suvrajib at math dot uio
 dot no
 
-A detailed CV can be found [here.](suvrajit-bhattacharjee-cv.pdf)
+A detailed CV can be found [here.](cv.pdf)
