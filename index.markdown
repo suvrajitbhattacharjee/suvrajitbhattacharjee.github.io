@@ -11,7 +11,7 @@ Before that, I was a postdoc at the Mathematical Institute of Charles University
 I defended my doctoral thesis in December, 2020 at the Indian Statistical
 Institute in Kolkata, India under the supervision of Prof. Debashish Goswami. My
 thesis can be found
-[here.](http://library.isical.ac.in:8080/jspui/bitstream/10263/7092/3/20201016-SuvrajitBhattacharjee-Thesis-rev2.pdf)                                                 
+[here.](http://dspace.isical.ac.in:8080/jspui/bitstream/10263/7092/3/20201016-SuvrajitBhattacharjee-Thesis-rev2.pdf)                                                 
   
 My research interests are in operator algebras, quantum groups and
 noncommutative geometry. 
