@@ -7,11 +7,11 @@ usemathjax: true
 
 - with Forough, M., "Quasi-invariant lifts of completely positive maps for groupoid actions", [arXiv preprint math.OA/2405.07859,](https://arxiv.org/abs/2405.07859) 2024.
 
+- with Joardar, S., "Equivariant $\textrm{C}^*$-correspondences and compact quantum group actions on Pimsner algebras", Canad. J. Math., Vol. 77, 2025. [arXiv](https://arxiv.org/abs/2209.04708) [doi](https://doi.org/10.4153/S0008414X23000810)
+
 - with Joardar, S., Roy, S., "Braided quantum symmetries of graph $\textrm{C}^*$-algebras", Internat. J. Math., Vol. 35, 2024. [arXiv](https://arxiv.org/abs/2201.09885) [doi](https://dx.doi.org/10.1142/S0129167X24500514)
 
 - with Goswami, D., "Complex structures on Three-point space", Proceedings of the International Conference on Infinite Dimensional Analysis, Quantum Probability and Related Topics, QP38, 2024. [arXiv](https://arxiv.org/abs/2405.07866) [doi](https://doi.org/10.1142/9789811275999_0006)
-
-- with Joardar, S., "Equivariant $\textrm{C}^*$-correspondences and compact quantum group actions on Pimsner algebras", To appear in Canadian Journal of Mathematics, 2024. [arXiv](https://arxiv.org/abs/2209.04708) [doi](https://doi.org/10.4153/S0008414X23000810)
 
 - with Anshu, Rahaman, A., Roy, S., "Anyonic quantum symmetries of finite spaces", Lett. Math. Phys., Vol. 113, 2023. [arXiv](https://arxiv.org/abs/2207.08153) [doi](https://doi.org/10.1007/s11005-023-01736-1)
 
