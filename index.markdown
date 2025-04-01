@@ -17,6 +17,5 @@ My research interests are in operator algebras, quantum groups and
 noncommutative geometry. 
 
 My email address is: suvra dot bh at gmail dot com
-dot no
 
 A detailed CV can be found [here.](sundry-cv.pdf)
