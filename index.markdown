@@ -15,9 +15,9 @@ thesis can be found [here.](thesis.pdf)
 My research interests are in operator algebras, quantum groups and
 noncommutative geometry.  
 
-My email addresses are: s.bhattacharjee at uwb dot edu dot pl, suvra dot bh at gmail dot com
+My email addresses are: s dot bhattacharjee at uwb dot edu dot pl, suvra dot bh at gmail dot com
 
 My postal address is: Wydział Matematyki (Sekretariat 2009), ul. Ciołkowskiego
-1M, 15-245, Białystok, Poland.
+1M, 15-245 Białystok, Poland.
 
 A detailed CV can be found [here.](cv.pdf)
