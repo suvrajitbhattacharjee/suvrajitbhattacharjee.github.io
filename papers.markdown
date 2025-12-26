@@ -5,7 +5,7 @@ permalink: /papers/
 usemathjax: true
 ---
 
-- with Giselsson, O., Neshveyev, S., ``Cartan subproduct systems'', [arXiv preprint math.OA/2512.17690,](https://arxiv.org/abs/2512.17690v1) 2025.
+- with Giselsson, O., Neshveyev, S., "Cartan subproduct systems", [arXiv preprint math.OA/2512.17690,](https://arxiv.org/abs/2512.17690v1) 2025.
 
 - with Forough, M., "Quasi-invariant lifts of completely positive maps for groupoid actions", [arXiv preprint math.OA/2405.07859,](https://arxiv.org/abs/2405.07859) 2024.
 
