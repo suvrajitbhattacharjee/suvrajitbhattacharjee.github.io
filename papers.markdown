@@ -7,7 +7,7 @@ usemathjax: true
 
 - with Giselsson, O., Neshveyev, S., "Cartan subproduct systems", [arXiv preprint math.OA/2512.17690,](https://arxiv.org/abs/2512.17690v1) 2025.
 
-- with Forough, M., "Quasi-invariant lifts of completely positive maps for groupoid actions", [arXiv preprint math.OA/2405.07859,](https://arxiv.org/abs/2405.07859) 2024.
+- with Forough, M., "Quasi-invariant lifts of completely positive maps for groupoid actions", Math. Proc. Cambridge Philos. Soc., Vol. 180, 2026. [arXiv](https://arxiv.org/abs/2405.07859) [doi](https://doi.org/10.1017/S0305004125101436)
 
 - with Joardar, S., "Equivariant $\textrm{C}^*$-correspondences and compact quantum group actions on Pimsner algebras", Canad. J. Math., Vol. 77, 2025. [arXiv](https://arxiv.org/abs/2209.04708) [doi](https://doi.org/10.4153/S0008414X23000810)
 
