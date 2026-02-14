@@ -17,7 +17,7 @@ usemathjax: true
 
 - What is a quantum group 1?, Functional analysis seminar, University of Białystok, Białystok. (October 2025) 
 
-- Crystallization and $\textrm{K}$-theoretical aspects of the quantum twistor bundle, Noncommutativity behind the dunes, Delft University of Technology, Delft. (October, 2024)
+- Crystallization and $K$-theoretical aspects of the quantum twistor bundle, Noncommutativity behind the dunes, Delft University of Technology, Delft. (October, 2024)
 
 - Braided quantum groups and their actions, Noncommutativity along the North sea in Odense, University of Southern Denmark, Odense. (August, 2024)
 
