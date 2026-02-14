@@ -39,10 +39,10 @@ Institute, Kolkata. (July, 2023)
 
 - Kasparov product and its properties, NCG&T Mal&yacute; Seminar, Prague. (April, 2022)
 
-- Braided quantum symmetries of graph $\textrm{C}^*$-algebras, NCG&T Seminar, Prague. (April, 2022)
+- Braided quantum symmetries of graph $C^*$-algebras, NCG&T Seminar, Prague. (April, 2022)
 
 - Kasparov modules and constructions, NCG&T Mal&yacute; Seminar, Prague. (April, 2022)
 
-- Braided quantum symmetries of graph $\textrm{C}^*$-algebras, Quantum Groups Seminar, Copenhagen. (March, 2022)
+- Braided quantum symmetries of graph $C^*$-algebras, Quantum Groups Seminar, Copenhagen. (March, 2022)
 
 - Generalized symmetry in noncommutative complex geometry, Quantum flag manifolds, Charles University, Prague. (September, 2019)
