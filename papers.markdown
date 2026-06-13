@@ -9,9 +9,9 @@ usemathjax: true
 
 - with M. Forough, Quasi-invariant lifts of completely positive maps for groupoid actions, Math. Proc. Cambridge Philos. Soc., vol. 180, 2026. [arXiv](https://arxiv.org/abs/2405.07859) [doi](https://doi.org/10.1017/S0305004125101436)
 
-- with S. Joardar, Equivariant $\textrm{C}^*$-correspondences and compact quantum group actions on Pimsner algebras, Canad. J. Math., vol. 77, 2025. [arXiv](https://arxiv.org/abs/2209.04708) [doi](https://doi.org/10.4153/S0008414X23000810)
+- with S. Joardar, Equivariant $C^*$-correspondences and compact quantum group actions on Pimsner algebras, Canad. J. Math., vol. 77, 2025. [arXiv](https://arxiv.org/abs/2209.04708) [doi](https://doi.org/10.4153/S0008414X23000810)
 
-- with S. Joardar, S. Roy, Braided quantum symmetries of graph $\textrm{C}^*$-algebras, Internat. J. Math., vol. 35, 2024. [arXiv](https://arxiv.org/abs/2201.09885) [doi](https://dx.doi.org/10.1142/S0129167X24500514)
+- with S. Joardar, S. Roy, Braided quantum symmetries of graph $C^*$-algebras, Internat. J. Math., vol. 35, 2024. [arXiv](https://arxiv.org/abs/2201.09885) [doi](https://dx.doi.org/10.1142/S0129167X24500514)
 
 - with D. Goswami, Complex structures on Three-point space, Proceedings of the International Conference on Infinite Dimensional Analysis, Quantum Probability and Related Topics, QP38, 2024. [arXiv](https://arxiv.org/abs/2405.07866) [doi](https://doi.org/10.1142/9789811275999_0006)
 
