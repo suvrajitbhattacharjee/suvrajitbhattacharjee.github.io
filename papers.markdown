@@ -1,5 +1,5 @@
 ---
-layout: page
+# layout: page
 title: Papers
 permalink: /papers/
 usemathjax: true
