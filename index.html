@@ -1,11 +1,17 @@
 <HTML>
 <HEAD>
 <TITLE>Suvrajit Bhattacharjee</TITLE>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width">
-<title>MathJax example</title>
-<script id="MathJax-script" async
-src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js">
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+jax: ["input/TeX", "output/HTML-CSS"],
+extensions: ["tex2jax.js"],
+"HTML-CSS": { preferredFont: "TeX", availableFonts: ["STIX","TeX"] },
+tex2jax: { inlineMath: [ ["$", "$"], ["\\(","\\)"] ], displayMath: [ ["$$","$$"], ["\\[", "\\]"] ], processEscapes: true, ignoreClass: "tex2jax_ignore|dno" },
+TeX: { noUndefined: { attributes: { mathcolor: "red", mathbackground: "#FFEEEE", mathsize: "90%" } } },
+messageStyle: "none"
+});
+</script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js">
 </script>
 </HEAD>
 
